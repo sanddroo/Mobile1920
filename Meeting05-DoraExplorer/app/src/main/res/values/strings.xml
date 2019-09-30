@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dora Explorer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="game_title">Dora Explorer</string>
+    <string name="start_button_text">Start</string>
+    <string name="how_to_play">How to play</string>
+    <string name="how_to_play_body">
+        Welcome to Dora Explorer Game.
+        We need help Dora to find a way to back home.
+        But in the middle of the journey many kidnappers who lurked to kidnap Dora.
+        So Dora must face several obstacles so that she can escape the kidnappers.
+        If dora fails through obstacles then she will be kidnapped.
+        Our job is to make sure dora can return home safely.
+    </string>
+    <string name="action_button_text">Continue</string>
+    <string name="unlocked_endings">Unlocked Endings</string>
+    <string name="bad_ending">Dora kidnapped </string>
+    <string name="normal_ending">Dora arrived home safely</string>
+    <string name="best_ending"> Dora arrived home safely with Boots </string>
+    <string name="title"> Dora Explorer </string>
+    </resources>
